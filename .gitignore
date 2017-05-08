@@ -1,0 +1,4 @@
+flask
+*.sublime-project
+*.sublime-workspace
+
